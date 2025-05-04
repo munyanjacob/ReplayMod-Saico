@@ -29,6 +29,7 @@ net.minecraft.client.gui.screen.IngameMenuScreen net.minecraft.client.gui.GuiIng
 #       most members are actually on the latter (there's also AbstractButton in the middle, but it isn't interesting)
 net.minecraft.client.gui.widget.Widget net.minecraft.client.gui.GuiButton
 net.minecraft.client.gui.widget.Widget active net.minecraft.client.gui.GuiButton enabled
+net.minecraft.client.gui.widget.Widget func_212934_y net.minecraft.client.gui.GuiButton y
 net.minecraft.network.PacketDirection net.minecraft.network.EnumPacketDirection
 net.minecraft.client.gui.screen.DownloadTerrainScreen net.minecraft.client.gui.GuiDownloadTerrain
 net.minecraft.client.gui.screen.AlertScreen net.minecraft.client.gui.GuiErrorScreen
